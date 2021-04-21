@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={깃헙 주소(url)}&count_bg={카운트 색상(hex)}&title_bg={타이틀 색상(hex)}&icon={아이콘 이미지(url)}&icon_color={아이콘 컬러(hex)}&title={타이틀(string)}&edge_flat={라운드 옵션(bool)})](https://hits.seeyoufarm.com)
+[출처] 깃헙 메인 프로필 꾸미기 (뱃지 설정, 컴포넌트 추가)|작성자 무마니 vivi
